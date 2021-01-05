@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Alt Text](https://github.com/T-Roel/T-Roel/blob/master/logo.png)
 
 <!--![GitHub Logo](T-Roel/logo.png)
