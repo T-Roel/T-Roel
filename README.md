@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](T-Roel/logo.png)
+Format: ![Alt Text](https://github.com/T-Roel/T-Roel/blob/master/logo.png)
 
 <!--
 **T-Roel/T-Roel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
